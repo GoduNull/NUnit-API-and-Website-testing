@@ -2,7 +2,7 @@ using BookingPageTest.PageObjects;
 using NUnit.Framework;
 using OpenQA.Selenium;
 
-namespace BookingPageTests
+namespace BookingPageTest
 {
     public class AuthenticationTest
     {

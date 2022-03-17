@@ -45,7 +45,7 @@ namespace WebApiTest
             Assert.AreEqual(weather.First().ApplicableDate, _presentDay);
         }
         [Test]
-        public async Task WeatherPresentDay11()
+        public async Task WeatherRequiredDay()
         {
             var requiredDay = DateTime.Now.AddYears(-5).ToString("yyyy-MM-dd").Replace("-", "/");
             var searchLocation = await ApiManager.SearchLocation(_location);
