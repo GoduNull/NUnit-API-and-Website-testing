@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace BookingPageTests.PageObjects
+namespace BookingPageTest.PageObjects
 {
     internal class MainBookingPageObject
     {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 
-namespace BookingPageTests.PageObjects
+namespace BookingPageTest.PageObjects
 {
     class AuthorizationBookingPageObject
     {
