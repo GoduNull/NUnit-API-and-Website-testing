@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingPageTest", "src\BookingPageTest\BookingPageTest.csproj", "{F70F3649-F251-48C1-9454-CC9892B9F67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingPageTest", "src\BookingPageTest\BookingPageTest.csproj", "{F70F3649-F251-48C1-9454-CC9892B9F67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTest", "src\WebApiTest\WebApiTest.csproj", "{FFB16BDF-1020-4C45-A5AB-3A232A06FE72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F70F3649-F251-48C1-9454-CC9892B9F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F70F3649-F251-48C1-9454-CC9892B9F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F70F3649-F251-48C1-9454-CC9892B9F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB16BDF-1020-4C45-A5AB-3A232A06FE72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB16BDF-1020-4C45-A5AB-3A232A06FE72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB16BDF-1020-4C45-A5AB-3A232A06FE72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB16BDF-1020-4C45-A5AB-3A232A06FE72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
